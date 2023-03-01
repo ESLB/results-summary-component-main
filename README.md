@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/ESLB/results-summary-component-main
+- Live Site URL: https://eslb.github.io/results-summary-component-main/
 
 ## What I learned
 
